@@ -1,1 +1,1 @@
-# 01GeneralImmersionDay
+# AWS General Immersion Day
