@@ -14,4 +14,6 @@
 |  2:45 PM - 3:00 PM      |  Break / Q & A                    |   |
 |  3:00 PM - 3:45 PM      |  Module 8                         |   Security Essentials|
 |  3:45 PM - 4:15 PM      |  Module 9 - Immersion Lab         |   IAM Hands on Lab|
-|  4:15 PM - 5:00 PM      |  AWS Architecture Best Practices  |   Close out| 
+|  4:15 PM - 5:00 PM      |  AWS Architecture Best Practices*  |   Close out| 
+
+* Optional
