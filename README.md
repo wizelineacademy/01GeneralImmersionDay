@@ -17,3 +17,5 @@
 |  4:15 PM - 5:00 PM      |  AWS Architecture Best PracticesΩ  |   Close out| 
 
 Ω Optional
+
+This agenda is subject to change without notice
